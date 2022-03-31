@@ -1,0 +1,3 @@
+C:\Users\Макс\source\repos\прогр дискр структур\lab4\Debug\lab4.exe
+C:\Users\Макс\source\repos\прогр дискр стр(я)\lab4\Debug\lab4.exe
+C:\Users\Макс\source\repos\прогр дискр стр(м)\lab4\Debug\lab4.exe
